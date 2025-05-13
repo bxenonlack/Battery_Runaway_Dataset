@@ -1,4 +1,4 @@
-# Battery_Runaway_Dataset
+# SKKU Battery_Runaway_Dataset
 
 Source
 - https://batteryarchive.org/
